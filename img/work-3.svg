@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <rect width="800" height="1000" fill="#ebe6da"/>
+  <rect x="60" y="60" width="680" height="880" fill="none" stroke="#9a917f" stroke-width="2" opacity="0.5"/>
+  <text x="400" y="480" font-family="Georgia, serif" font-size="34" fill="#9a917f" text-anchor="middle" opacity="0.85">Kitchen & dining</text>
+  <text x="400" y="530" font-family="Georgia, serif" font-size="18" fill="#9a917f" text-anchor="middle" opacity="0.55">project photograph</text>
+</svg>
